@@ -1,4 +1,4 @@
-
+![dino.gif](./dino.gif)
 <h1 align="center"> 🛸 Hi, I'm Song seungkwan 🛸 </h1>
 
 <div align="left">
