@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-FA320A?style=flat-square&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><br><br>
   <img src="https://img.shields.io/badge/Apache Tomcat-FA320A?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -26,6 +26,6 @@
 </div>
  <br>
  <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songseungkwan&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=songseungkwan&show_icons=true&theme=dracula"/>  
  </div>
